@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "885339288250",
+    "firebase_url": "https://barber-clean-default-rtdb.firebaseio.com",
+    "project_id": "barber-clean",
+    "storage_bucket": "barber-clean.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885339288250:android:7312f878c6fa293555c883",
+        "android_client_info": {
+          "package_name": "com.example.my_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885339288250-gluql61k0su25iu5oohlpq5mpfrdpc19.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqC0y2m8JW9zIuerWY69LuNy1GWkFZIOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885339288250-gluql61k0su25iu5oohlpq5mpfrdpc19.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885339288250:android:3382d8234a96f48f55c883",
+        "android_client_info": {
+          "package_name": "com.ubarber.booking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885339288250-gluql61k0su25iu5oohlpq5mpfrdpc19.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqC0y2m8JW9zIuerWY69LuNy1GWkFZIOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885339288250-gluql61k0su25iu5oohlpq5mpfrdpc19.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
